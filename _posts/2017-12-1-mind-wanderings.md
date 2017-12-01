@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mind Wanders.. Finally"
+title: "mind wanders.. finally"
 date: 2017-12-1
 ---
 
